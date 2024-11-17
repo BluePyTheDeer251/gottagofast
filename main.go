@@ -23,7 +23,7 @@ func main() {
 	fmt.Println(mySum)
 	fmt.Println(myStupidHardMulti)
 	fmt.Println(math.Sin(myFloat))
-	// I have no idea on what a sin (in math) is.
+	// I have no idea on what a sine (in math) is.
 
 	// For loops
 	for C := 0; C >=251; C++ {
